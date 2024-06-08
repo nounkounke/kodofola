@@ -1,0 +1,10 @@
+spring.application.name: kodofola
+
+load.words: true
+
+spring:
+  data:
+    mongodb:
+      database: kodofola
+  servlet.multipart.max-file-size: 1MB
+  servlet.multipart.max-request-size: 1MB
